@@ -5,7 +5,7 @@
 
 - ✍🏻 Writing in Medium and Dev.to 
 - 🗣  Sharing tech stuff in Twitter 
-- 🚧 Indie VideoGeme Dev in process 
+- 🚧 Indie VideoGame Dev in process 
 
 - 📝 See my [Curriculum Vitae]() to get more info.
 
