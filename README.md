@@ -73,7 +73,7 @@ Berlin, Germanyrhomita.comSe unió en mayo de 2020
 <a href="https://www.hackerrank.com/fernandofh" target="_blank">
   <img align="left" alt="Hackerrank Fernando H" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/hackerrank.svg" />
 </a>
-
+<br /><br /><br />
 <div><p>My profile overview: </p></div>
 
 ![FernandoFH's github stats](https://github-readme-stats.vercel.app/api?username=FernandoFH&show_icons=true)
