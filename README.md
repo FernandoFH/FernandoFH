@@ -3,9 +3,9 @@
 - 💻 I’m currently VAS Engineer at Telefonica
 - 🎓 Telecom Enginee
 
-- ✍🏻 Writing in Medium and Dev 
+- ✍🏻 Writing in Medium and Dev.to 
 - 🗣  Sharing tech stuff in Twitter 
-- 🚧 Indie VideoGeme in process 
+- 🚧 Indie VideoGeme Dev in process 
 
 - 📝 See my [Curriculum Vitae]() to get more info.
 
