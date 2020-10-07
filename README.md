@@ -1,53 +1,13 @@
 ### Hi there 👋. I'm **Fernando**.
 
-- 💻 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💻 I’m currently VAS Engineer at Telefonica
+- 🎓 Telecom Enginee
 
-**Talking about Personal Stuffs:**
+- ✍🏻 Writing in Medium and Dev 
+- 🗣  Sharing tech stuff in Twitter 
+- 🚧 Indie VideoGeme in process 
 
-- 👨🏽‍💻 I’m currently an Artificial Intelligence intern with [Vneuron](https://www.vneuron.com/) working on NLP/NLU projects;
-- 🌱 I’m currently learning Deep Reinforcement Learning; 
-- 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Reinforcement Learning, etc..;
-- 💼 I’m pursuing a Bachelor's degree in Software Engineering;
-- 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via mabrouki.mehdi25@gmail.com to reach me.
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1q_ATZsO9c488VUxj1JuU--ZYe9IEqp4-/view?usp=sharing) to get more info.
-
-
-# 🤔 About me:
-
-- 🐇 Following the white rabbit
-- 👨🏻‍💻 Full-Stack Developer
-
-Writing in Medium ✍🏻
-Talking and sharing in Twitter 🗣
-Experimenting with CSS in Codepen 🖥
-And know a little more about me in Linkedin 👩🏻‍💼
-
-👨‍💻 24 Years old Developer  
-👨‍🎓 Studying Computer Science here in Switzerland  
-🚧 **Current Project:** [Price Tracker](https://github.com/lucafluri/price_tracker)
-
-⭐️ From [lucafluri](https://github.com/lucafluri)
-
-❤️ Desarrollador de videojuegos indie
-❤️ Creador de contenido game dev en YouTube y Twitch
-
-📽️ http://rhomita.com/youtube
-🖥️ http://rhomita.com/twitch
-💾 http://rhomita.com/github
-Berlin, Germanyrhomita.comSe unió en mayo de 2020
-88 Siguiendo
-158 Seguidores
-
-
-
+- 📝 See my [Curriculum Vitae]() to get more info.
 
 <br/>
 <a href="https://twitter.com/fernandof_h" target="_blank">
@@ -73,7 +33,7 @@ Berlin, Germanyrhomita.comSe unió en mayo de 2020
 <a href="https://www.hackerrank.com/fernandofh" target="_blank">
   <img align="left" alt="Hackerrank Fernando H" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/hackerrank.svg" />
 </a>
-<br /><br /><br />
+<br /><br />
 <div><p>My profile overview: </p></div>
 
 ![FernandoFH's github stats](https://github-readme-stats.vercel.app/api?username=FernandoFH&show_icons=true)
