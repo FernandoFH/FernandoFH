@@ -1,11 +1,15 @@
 ### Hi there 👋. I'm **Fernando**.
 
-- 💻 I’m currently VAS Engineer at Telefonica
-- 🎓 Telecom Enginee
+![FernandoFH's github stats](https://github-readme-stats.vercel.app/api?username=FernandoFH&show_icons=true)
+<br />
 
+<div><p>My profile overview: </p></div>
+<br />
+
+- 💻 I’m currently VAS Engineer at Telefonica
 - ✍🏻 Writing in Medium and Dev.to 
 - 🗣  Sharing tech stuff in Twitter 
-- 🚧 Indie VideoGame Dev in process 
+- 🚧 VideoGame Dev in process 
 
 - 📝 See my [Curriculum Vitae]() to get more info.
 
@@ -33,8 +37,3 @@
 <a href="https://www.hackerrank.com/fernandofh" target="_blank">
   <img align="left" alt="Hackerrank Fernando H" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/hackerrank.svg" />
 </a>
-<br /><br />
-<div><p>My profile overview: </p></div>
-
-![FernandoFH's github stats](https://github-readme-stats.vercel.app/api?username=FernandoFH&show_icons=true)
-<br />
