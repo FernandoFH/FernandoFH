@@ -4,7 +4,6 @@
 <br />
 
 <div><p>My profile overview: </p></div>
-<br />
 
 - 💻 I’m currently VAS Engineer at Telefonica
 - ✍🏻 Writing in Medium and Dev.to 
