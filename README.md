@@ -1,7 +1,8 @@
 ### Hi there 👋. I'm **Fernando**.
 
-![FernandoFH's github stats](https://github-readme-stats.vercel.app/api?username=FernandoFH&show_icons=true)
-<br />
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=FernandoFH&show_icons=true"  alt="Fernando's Github Stats"/>
+</p>
 
 <div><p>My profile overview: </p></div>
 
