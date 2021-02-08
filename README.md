@@ -28,11 +28,3 @@
 <a href="https://medium.com/@FernandoFH" target="_blank">
   <img align="left" alt="Medium Fernando H" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/medium.svg" />
 </a>
-
-<a href="https://github.com/FernandoFH" target="_blank">
-  <img align="left" alt="Github Fernando H" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/github.svg" />
-</a>
-
-<a href="https://www.hackerrank.com/fernandofh" target="_blank">
-  <img align="left" alt="Hackerrank Fernando H" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/hackerrank.svg" />
-</a>
