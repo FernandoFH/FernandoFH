@@ -16,22 +16,18 @@
 - 📝 See my [Curriculum Vitae]() to get more info.
 
 <br/>
+
 <p align="center">
-  
 <a href="https://twitter.com/fernandof_h" target="_blank">
   <img align="left" alt="Fernando Hernandez | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-
 <a href="https://www.linkedin.com/in/fernandoh/" target="_blank">
   <img align="left" alt="Linkedin Fernando H" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-
 <a href="https://dev.to/fernandofh" target="_blank">
   <img align="left" alt="Dev.to Fernando H" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/dev-dot-to.svg" />
 </a>
-
 <a href="https://medium.com/@FernandoFH" target="_blank">
   <img align="left" alt="Medium Fernando H" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/medium.svg" />
 </a>
-
 </p>
