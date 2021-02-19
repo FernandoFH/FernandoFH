@@ -11,7 +11,6 @@
 - 💻 I’m currently VAS Engineer at Telefonica
 - ✍🏻 Writing in Medium and Dev.to 
 - 🗣  Sharing tech stuff in Twitter 
-- 🚧 VideoGame Dev in process 
 
 - 📝 See my [Curriculum Vitae]() to get more info.
 
