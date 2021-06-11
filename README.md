@@ -14,7 +14,7 @@
 </p>
 
 <br/>
-<p align="left">
+<p align="center">
   
 <a href="https://twitter.com/fernandof_h" target="_blank">
   <img align="center" alt="Fernando Hernandez | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
