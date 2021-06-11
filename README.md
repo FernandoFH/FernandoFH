@@ -1,11 +1,4 @@
 ### Hi there 👋. I'm **Fernando**.
-
-<p align="center">
-  <a href="#user-30538313-pinned-items-reorder-form">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=FernandoFH&show_icons=true"  alt="Fernando's Github Stats"/>
-  </a>
-</p>
-
 <div><p>My profile overview: </p></div>
 
 - 💻 I’m currently VAS Engineer at Telefonica
@@ -13,10 +6,15 @@
 - 🗣  Sharing tech stuff in Twitter 
 
 - 📝 See my [Curriculum Vitae]() to get more info.
+<br/>
+<p align="left">
+  <a href="#user-30538313-pinned-items-reorder-form">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=FernandoFH&show_icons=true"  alt="Fernando's Github Stats"/>
+  </a>
+</p>
 
 <br/>
-
-<p align="center">
+<p align="left">
   
 <a href="https://twitter.com/fernandof_h" target="_blank">
   <img align="center" alt="Fernando Hernandez | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
