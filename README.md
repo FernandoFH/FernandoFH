@@ -1,7 +1,7 @@
 ### Hi there 👋. I'm **Fernando**.
 <div><p>My profile overview: </p></div>
 
-- 💻 I’m currently VAS Engineer at Telefonica
+- 💻 I’m currently VAS / DevOps Engineer at Metrotel
 - ✍🏻 Writing in Medium and Dev.to 
 - 🗣  Sharing tech stuff in Twitter 
 
