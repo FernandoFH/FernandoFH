@@ -1,4 +1,4 @@
-### Hi there 👋. I'm **Fernando**.
+### Hi 👋. I'm **Fernando**.
 <div><p>My profile overview: </p></div>
 
 - 💻 I’m currently VAS / DevOps Engineer at Metrotel
