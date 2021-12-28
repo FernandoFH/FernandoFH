@@ -1,11 +1,11 @@
 ### Hi 👋. I'm **Fernando**.
 <div><p>My profile overview: </p></div>
 
-- 💻 I’m DevOps Engineer
-- ✍🏻 Writing in Medium and Dev.to 
-- 🗣  Sharing tech stuff in Twitter 
-
+- 💻 I’m DevOps Engineer. 
+- ✍🏻 Writing in [Medium](https://medium.com/@FernandoFH) and [Dev.to](https://dev.to/fernandofh).  
+- 🗣  Sharing tech stuff in [Twitter](https://twitter.com/fernandof_h). 
 - 📝 See my [Curriculum Vitae]() to get more info.
+
 <br/>
 <p align="left">
   <a href="#user-30538313-pinned-items-reorder-form">
