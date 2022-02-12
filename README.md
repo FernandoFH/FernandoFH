@@ -1,9 +1,10 @@
 ### Hi 👋. I'm **Fernando**.
 <div><p>My profile overview: </p></div>
 
+- 👨‍🚀 [Headquarters](https://fernandoh.com/)
 - 💻 I’m DevOps Engineer. 
 - ✍🏻 Writing in [Medium](https://medium.com/@FernandoFH) and [Dev.to](https://dev.to/fernandofh).  
-- 🗣  Sharing tech stuff in [Twitter](https://twitter.com/fernandof_h). 
+- 🚀 Sharing tech stuff in [Twitter](https://twitter.com/fernandof_h). 
 - 📝 See my [Curriculum Vitae]() to get more info.
 
 <br/>
