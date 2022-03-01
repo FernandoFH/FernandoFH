@@ -5,7 +5,7 @@
 - 💻 I’m DevOps Engineer. 
 - ✍🏻 Writing in [Medium](https://medium.com/@FernandoFH) and [Dev.to](https://dev.to/fernandofh).  
 - 🚀 Sharing tech stuff in [Twitter](https://twitter.com/fernandof_h). 
-- 📝 See my [Curriculum Vitae]() to get more info.
+- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1wkYK8fSFoX1oPLwqco0_u5MVVVp56rMX/view?usp=sharing) to get more info.
 
 <br/>
 <p align="left">
