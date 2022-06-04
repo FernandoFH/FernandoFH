@@ -5,7 +5,7 @@
 - 💻 I’m Site reliability engineering. 
 - ✍🏻 Writing in [Medium](https://medium.com/@FernandoFH) and [Dev.to](https://dev.to/fernandofh).  
 - 🚀 Sharing tech stuff in [Twitter](https://twitter.com/fernandof_h). 
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1mJHI2TWzUzNMUIzq9ZUWzm-VhczUzAyv/view?usp=sharing) to get more info.
+- 📝 See my [Curriculum Vitae]() to get more info.
 
 <br/>
 <p align="left">
