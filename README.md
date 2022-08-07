@@ -4,7 +4,7 @@
 - 👨‍🚀 [Headquarters](https://fernandoh.com/)
 - 💻 I’m Site reliability engineering. 
 - ✍🏻 Writing in [Medium](https://medium.com/@FernandoFH) and [Dev.to](https://dev.to/fernandofh).  
-- 🚀 Sharing tech stuff in [Twitter](https://twitter.com/fernandof_h). 
+- 🚀 Sharing tech stuff in [Twitter](https://twitter.com/fernandof_h) #SREThisIsTheWay
 - 📝 See my [Curriculum Vitae]() to get more info.
 
 <br/>
