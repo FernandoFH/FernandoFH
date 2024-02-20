@@ -11,9 +11,6 @@
 
 <a href="https://twitter.com/fernandof_h" target="_blank">
   <img align="center" alt="Fernando Hernandez | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-  <img width="50" height="50" src="https://img.icons8.com/ios/50/medium-new.png" alt="medium-new"/>
-  <a  href="https://icons8.com/icon/sIQ7pEkjnEJW/medio">Medio</a> icon by <a href="https://icons8.com">Icons8</a>
-  <img width="50" height="50" src="https://img.icons8.com/ios/50/medium-logo.png" alt="medium-logo"/>
 </a>  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
