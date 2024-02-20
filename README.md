@@ -11,6 +11,8 @@
 
 <a href="https://twitter.com/fernandof_h" target="_blank">
   <img align="center" alt="Fernando Hernandez | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img width="50" height="50" src="https://img.icons8.com/ios/50/medium-new.png" alt="medium-new"/>
+
 </a>  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
