@@ -2,7 +2,7 @@
 <div><p>My profile overview: </p></div>
 
 - 👨‍🚀 [Headquarters](https://fernandoh.com/)
-- 💻 I’m Site reliability engineering. 
+- 💻 I’m Site Reliability Engineering (SRE).
 - ✍🏻 Writing in [Medium](https://medium.com/@FernandoFH) and [Dev.to](https://dev.to/fernandofh).  
 - 🚀 Sharing tech stuff in [Twitter](https://twitter.com/fernandof_h) #SREThisIsTheWay
 - 📝 See my [Curriculum Vitae](https://github.com/FernandoFH) to get more info.
